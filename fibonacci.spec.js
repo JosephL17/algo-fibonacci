@@ -1,4 +1,4 @@
-const fibonacci = require("./fibonacci");
+const fibonacci = require("./fibonacci.js");
 
 describe("test fibonacci", () => {
   test("fibonacci(0) === 0", () => {
